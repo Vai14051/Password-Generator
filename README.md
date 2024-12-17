@@ -11,9 +11,12 @@ You can generate passwords with a mix of the above conditions to meet your secur
 Usage
 Clone this repository:
 
+
+
+
 bash
 Copy code
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/Vai14051/Password-Generator.git
 cd random-password-generator
 Run the application:
 
