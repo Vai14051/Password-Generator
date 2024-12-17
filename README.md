@@ -1,4 +1,7 @@
 Random Password Generator 🔐
+
+
+
 This is a simple Random Password Generator application designed to create secure and customizable passwords. The generator includes options for various conditions to ensure strong passwords.
 
 Features
